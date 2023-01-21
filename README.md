@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devajit Patar</h1>
 <h3 align="center">A passionate android and Machine Learning developer from India</h3>
 
-<img align="right" alt="coding" width="200" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devp-ai&label=Profile%20views&color=0e75b6&style=flat" alt="devp-ai" /> </p>
@@ -13,6 +12,8 @@
 - 📫 How to reach me **patar1447@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<img align="right" alt="coding" width="200" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/devajit-patar-05980821a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devajit-patar-05980821a" height="30" width="40" /></a>
 <a href="https://kaggle.com/devajitpatar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="devajitpatar" height="30" width="40" /></a>
