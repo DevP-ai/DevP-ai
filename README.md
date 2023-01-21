@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Devajit Patar</h1>
 <h3 align="center">A passionate android and Machine Learning developer from India</h3>
 
-<img align="center" alt="coding" width="500" height="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-
+<p align="center"> 
+<img alt="coding" width="500" height="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devp-ai&label=Profile%20views&color=0e75b6&style=flat" alt="devp-ai" /> </p>
 
