@@ -1,7 +1,8 @@
-  <h1 align="center">Hi 👋, I'm Devajit Patar</h1>
-<!-- <p align="center"> 
-<img alt="coding" width="1000" height="350" src="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/programming%20evolution.jpg?itok=WTj9-yNz">
-</p> -->
+<p align="center"> 
+<img alt="coding" width="1000" height="400" src="https://ciit.edu.ph/wp-content/uploads/2021/04/6-1024x536.jpg">
+</p>
+<h1 align="center">Hi 👋, I'm Devajit Patar</h1>
+
 <h3 align="center">A passionate android and Machine Learning developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devp-ai&label=Profile%20views&color=0e75b6&style=flat" alt="devp-ai" /> </p>
