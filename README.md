@@ -2,7 +2,7 @@
 <h3 align="center">A passionate android and Machine Learning developer from India</h3>
 
 <p align="center"> 
-<img alt="coding" width="500" height="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img alt="coding" width="450" height="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devp-ai&label=Profile%20views&color=0e75b6&style=flat" alt="devp-ai" /> </p>
