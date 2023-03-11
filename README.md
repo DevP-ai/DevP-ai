@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevP-ai&show_icons=true&locale=en" alt="DevP-ai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevP-ai&" alt="DevP-ai" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevP-ai&" alt="DevP-ai" /></p> -->
