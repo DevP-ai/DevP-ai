@@ -11,7 +11,7 @@
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devp-ai" alt="devp-ai" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Learning,JavaScript**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **patar1447@gmail.com**
 
